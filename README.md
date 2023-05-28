@@ -12,7 +12,7 @@
 ## ✔ 프로젝트
 
 ### 1. 모같코(MOGOTCO)
-<img src="https://user-images.githubusercontent.com/83347312/207089142-e9d840c9-f774-49a1-9e94-0096fd6eea14.png"  width="30%"/>
+<img src="https://user-images.githubusercontent.com/83347312/207089142-e9d840c9-f774-49a1-9e94-0096fd6eea14.png"  width="10%"/>
 
 >__개발과 관련하여 현직자에게 다양한 조언 받을 수 있는 개발 멘토링 플랫폼__
 >  
@@ -34,7 +34,7 @@
 ---
 
 ### 2. 멀티일렉(multielec)
-<img src="https://user-images.githubusercontent.com/86956783/197341585-9af17c75-1df7-43eb-ad79-59763c3cc182.png"  width="50%"/>
+<img src="https://user-images.githubusercontent.com/86956783/197341585-9af17c75-1df7-43eb-ad79-59763c3cc182.png"  width="30%"/>
 
 >__전자 제품 온라인 판매 웹 서비스 (미니 프로젝트)__
 > 
