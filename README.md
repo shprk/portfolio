@@ -9,7 +9,6 @@
 <img src="https://github.com/shprk/portfolio/assets/86956783/2c170511-0e5c-4f9a-a4b7-6d2904ce9831" width="25%"/>
 
 - 이름: 박성훈
-- 취미: 카페코딩, 맨몸운동
 - 이메일: seonghoon.dev@gmail.com
 - 블로그: https://velog.io/@shee5032
 - 깃헙: https://github.com/shprk
