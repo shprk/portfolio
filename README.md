@@ -1,11 +1,12 @@
 # 포트폴리오
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpsh5032%2FTIL_multicampus&count_bg=%232F8EE6&title_bg=%23555555&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></a> 
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a> 
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 
 ## ✔ 소개
-<img src="https://github.com/shprk/portfolio/assets/86956783/2c170511-0e5c-4f9a-a4b7-6d2904ce9831" width="40%"/>
+<img src="https://github.com/shprk/portfolio/assets/86956783/2c170511-0e5c-4f9a-a4b7-6d2904ce9831" width="25%"/>
 
 - 이름: 박성훈
 - 취미: 카페코딩, 맨몸운동
@@ -15,10 +16,9 @@
 
 <br>
 
-![sfdasdsdf](https://github.com/shprk/dailyAlgorithm/assets/86956783/ffa6384c-8f57-4b95-9b7e-548494b43810)
-
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shee5032)](https://solved.ac/shee5032/)
+
+![sfdasdsdf](https://github.com/shprk/dailyAlgorithm/assets/86956783/ffa6384c-8f57-4b95-9b7e-548494b43810)
 
 
 <br>
@@ -46,7 +46,7 @@
 >
 >📌[프로젝트 작업 현황판](https://www.notion.so/psh5032/mogotco-f6b5f0fc608044349028c9cbd98f5ea7?pvs=4)
 >
-><img src="https://github.com/shprk/dailyAlgorithm/assets/86956783/1738a5d5-cddb-4ff0-890d-32d589839ecc"  width="30%"/>
+><img src="https://github.com/shprk/dailyAlgorithm/assets/86956783/1738a5d5-cddb-4ff0-890d-32d589839ecc"  width="20%"/>
 
 ---
 
@@ -70,6 +70,6 @@
 >
 >📌[Figma 작업 페이지](https://www.figma.com/file/IAPAKpeTjSsmRTdE0Tk1AR/Untitled?type=design&node-id=0%3A1&t=UcbiXiag8cNoGuHG-1)
 >
-><img src="https://github.com/shprk/dailyAlgorithm/assets/86956783/dc653167-cba8-4c82-bdf0-e8e24f4030e1"  width="30%"/>
+><img src="https://github.com/shprk/dailyAlgorithm/assets/86956783/dc653167-cba8-4c82-bdf0-e8e24f4030e1"  width="20%"/>
 
 ---
