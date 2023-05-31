@@ -21,8 +21,6 @@
 ![sfdasdsdf](https://github.com/shprk/dailyAlgorithm/assets/86956783/ffa6384c-8f57-4b95-9b7e-548494b43810)
 
 
-<br>
-
 ## ✔ 프로젝트
 
 ### 1. 모같코(MOGOTCO)
