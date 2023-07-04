@@ -70,3 +70,5 @@
 ><img src="https://github.com/shprk/dailyAlgorithm/assets/86956783/dc653167-cba8-4c82-bdf0-e8e24f4030e1"  width="20%"/>
 
 ---
+
+>📌[네이버 클라우드 플랫폼 환경 셋팅 방법](https://psh5032.notion.site/86950d39a53d457a96c807ad6be8f77a?pvs=4)
